@@ -18,5 +18,21 @@
 |#10| Brazil	|2,080	|9.67|
 
 #### 2. Industrial Analysis  
+-Do a industry analysis of future.   
+1. BANK
+2. AUTO
+3. FINANCIAL SERVICES
+4. FMCG
+6. IT
+7. MEDIA
+8. METAL
+9. PHARMA
+10. PSU BANK
+11. PRIVATE BANK
+12. REALTY
+13. HEALTHCARE INDEX
+14. CONSUMER DURABLES
+15. OIL & GAS
+
 
 #### 3. Company Analysis  
