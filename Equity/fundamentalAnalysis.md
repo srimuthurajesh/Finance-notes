@@ -39,8 +39,12 @@
 1. Profit/loss sheet - info about PL  
 2. Balance sheet  - info about assets and loans  
      a. **Reserve** - money available after paying all expenses  
-     b. **Borrowings**  
+     b. **Borrowings** - banks will have more of it, but no issues  
           1. Short term borrowings: less than year  
           2. Long term borrowings: more than 1 years  
-          3. Lease liabilities:    
+          3. Lease liabilities:  
+     c. Liability
+     d. Asset
+         1. Fixes asset - Land building, vehicles etc
+         2. Other assets - 
 4. Share holding pattern  - promoters should hold most share  
