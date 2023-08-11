@@ -20,7 +20,7 @@
 2. ### Industrial Analysis  
    - Do a industry analysis of future.
    
-   |Rank|Sector|Companies|
+   |Rank|Sector|Companies|  
    |---|---|---|
    |1| BANK| Hdfc, Icici, Sbi|
    |2| IT | Tcs, infosys, wipro|
@@ -35,6 +35,7 @@
    |11| Power| NTPC, Powergrid
    |12|Services|AdaniPorts|
    |13|Chemicals|UPL, Tata |
+   
 ---
 3. ### Company Financial ratios  
    1. #### Face value - share captial/ no of shares  
