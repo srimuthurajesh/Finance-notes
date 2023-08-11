@@ -18,7 +18,7 @@
    |10| Brazil	|2,080	|9.67|
 
 2. ### Industrial Analysis  
-   - Do a industry analysis of futureeee.
+   - Do a industry analysis of future.
    
    |Rank|Sector|Companies|  
    |---|---|---|
@@ -36,7 +36,7 @@
    |12|Services|AdaniPorts|
    |13|Chemicals|UPL, Tata |
 
-   aaaa
+   
 
 4. ### Company Financial ratios  
    1. #### Face value - share captial/ no of shares  
