@@ -34,7 +34,7 @@
    |10| Telcom| Reliance, Airtel|
    |11| Power| NTPC, Powergrid
    |12|Services|AdaniPorts|
-   |13|Chemicals|UPL, Tata |  
+   |13|Chemicals|UPL, Tata |  aaaa
 
 3. ### Company Financial ratios  
    1. #### Face value - share captial/ no of shares  
