@@ -80,7 +80,11 @@
                3. Cash equivalents - liquid cash, bonds
            3. Investments
            4. CWIP - capital work in progress, once it done will move into fixed assets    
-   4. **Share holding pattern**  - promoters should hold most share  
+   4. **Share holding pattern**  - promoters should hold most shares  
+   5. **Cash Flows**  
+       1. Cash from Operating Activity - operation cost  
+       2. Cash from Investing Activity - acquisitions, investments, Fixed assets etc  Note: should be in minus  
+       3. Cash from Financial Activity - repayments interest paid, liabilities, dividends  etc     
    
 
 
