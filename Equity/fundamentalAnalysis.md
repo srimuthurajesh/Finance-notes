@@ -56,8 +56,16 @@
       Earning before interest&tax / total captial  
 ---   
 4. ### Balance sheet  
-   1. **Profit/loss sheet** - info about PL  
-   2. **Balance sheet**  - info about assets and loans  
+   1. **Profit/loss sheet** - info about PL
+       1. Sales - Income
+       2. Expenses - material, manufacturing, Employee, other costs
+       3. Operating profit = sales - Expenses
+       4. Operating profit marging(OPM): (profit/sales)*100
+       5. Other income - ex:interest from bank deposits etc
+       6. Interest - payable interest for liabilities and loans
+       7. Depreciation - expired machinaries and licenses  
+      
+   3. **Balance sheet**  - info about assets and loans  
        1. **Reserves** - funds set aside to pay future obligations   
        2. **Borrowings** - bank sector will have more of it, but no issues  
            1. **Short term borrowings**: less than year  
