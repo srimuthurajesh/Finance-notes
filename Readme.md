@@ -1,1 +1,1 @@
-[Fundamental Analysis](https://github.com/srimuthurajesh/Finance-notes/Equity/fundamentalAnalysis.html)
+[Fundamental Analysis](https://srimuthurajesh.github.io/Finance-notes//Equity/fundamentalAnalysis.html)
