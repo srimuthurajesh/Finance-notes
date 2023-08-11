@@ -22,16 +22,18 @@
 |Rank|Sector|Companies|
 |---|---|---|
 |1| BANK| Hdfc, Icici, Sbi|
-|2| FINANCIAL SERVICES||
-|3| FMCG|Itc, Hul, Nestle, marico, tata|
-|4| IT | Tcs, infosys, wipro|
+|2| IT | Tcs, infosys, wipro|
+|3| OIL & GAS| Reliance, ONGC, IOC|
+|4| FMCG|Itc, Hul, Nestle, marico, tata|
 |5| AUTO| Maruthi, Tata, M&M|
-|7| METAL| Jsw,  Tata|
-|8| PHARMA| Sun, Cipla|
-|11| REALTY||
-|14| OIL & GAS| Reliance, ONGC, IOC|
-|15| Telcom| Reliance, Airtel|
-
+|6| PHARMA| Sun, Cipla|
+|7| Consumer durables|AsianPaints|
+|8|Construction|L&T, Ultratech|
+|9| METAL| Jsw, Tata, Adani, Hindalco|
+|10| Telcom| Reliance, Airtel|
+|11| Power| NTPC, Powergrid
+|12|Services|AdaniPorts|
+|13|Chemicals|UPL, Tata |
 
 ### 3. Company Analysis  
 #### 1. Face value - share captial/ no of shares  
@@ -46,18 +48,23 @@
    medium/high pe means safe, low pe means risk stocks  
 - need to compare with sector PE    
 #### 3. Balance sheet  
-1. Profit/loss sheet - info about PL  
-2. Balance sheet  - info about assets and loans  
-    1. **Reserve** - money available after paying all expenses  
-    2. **Borrowings** - banks will have more of it, but no issues  
-        1. Short term borrowings: less than year  
-        2. Long term borrowings: more than 1 years  
-        3. Lease liabilities:  
-    3. Liability
-    4. Asset
-        1. Fixes asset - Land building, vehicles etc
-        2. Other assets - 
-4. Share holding pattern  - promoters should hold most share  
+1. **Profit/loss sheet** - info about PL  
+2. **Balance sheet**  - info about assets and loans  
+    1. **Reserves** - funds set aside to pay future obligations   
+    2. **Borrowings** - bank sector will have more of it, but no issues  
+        1. **Short term borrowings**: less than year  
+        2. **Long term borrowings**: more than 1 years  
+        3. **Lease liabilities**:  
+    3. **Liability** - loans yet to repay  
+    4. **Asset**
+        1. Fixes asset - Land, building, machineries, Equipments, vehicles etc
+        2. Other assets -  
+            1. Inventories - yet to delivery/sell products  
+            2. Trade receivable - delivered but money not received   
+            3. Cash equivalents - liquid cash, bonds
+        3. Investments
+        4. CWIP - capital work in progress, once it done will move into fixed assets    
+4. **Share holding pattern**  - promoters should hold most share  
 
 
 
