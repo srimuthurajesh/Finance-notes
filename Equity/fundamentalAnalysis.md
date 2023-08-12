@@ -44,8 +44,9 @@
    - minimum face value should be 1
    - dividend announced using this value, eg 90% of face value
    
-   2. #### Book value - asset value/ no of shares      
-   3. #### PE ratio - price/earning pershare  
+   2. #### Book value - asset value/ no of shares
+   3. #### PB ratio - share price/ book value       
+   4. #### PE ratio - share price/ earning pershare  
    - assume that we paying PE ratio amount to earn 1 rupee  
    - eventhough pe ratio is high, we go for that quality costly stock
       medium/high pe means safe, low pe means risk stocks  
