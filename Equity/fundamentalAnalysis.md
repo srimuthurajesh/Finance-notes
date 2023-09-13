@@ -55,8 +55,10 @@
       - Net income/ total equity
       - profit from invested money  
    6. #### ROCE - Return on capital employeed
-      Earning before interest&tax / total captial
+      Earning before interest&tax / total captial  
       - profit from invested+liabilities money  
+      - if ROCE is more than ROE, it means Debt is used effectively  
+      - for both ROE & ROCE should be compared with sector ROE/ROCE  
 ---   
 4. ### Balance sheet  
    1. **Profit/loss sheet** - info about PL
