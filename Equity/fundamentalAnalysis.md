@@ -45,6 +45,7 @@
    - dividend announced using this value, eg 90% of face value
    
    2. #### Book value - asset value/ no of shares
+   - total value when we sell all assets   
    3. #### PB ratio - share price/ book value       
    4. #### PE ratio - share price/ earning pershare  
    - assume that we paying PE ratio amount to earn 1 rupee  
