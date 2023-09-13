@@ -52,9 +52,11 @@
       medium/high pe means safe, low pe means risk stocks  
    - need to compare with sector PE
    4. #### ROE - Return on equity
-      Net income/ total equity  
+      - Net income/ total equity
+      - profit from invested money  
    6. #### ROCE - Return on capital employeed
-      Earning before interest&tax / total captial  
+      Earning before interest&tax / total captial
+      - profit from invested+liabilities money  
 ---   
 4. ### Balance sheet  
    1. **Profit/loss sheet** - info about PL
